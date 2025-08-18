@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋! My name is Abubakar Siddiq Mohammed, and I'm a Computer Science Engineer</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Cloud+%26+AWS+%26+DevOps+Enthusiast;Web+%F0%9F%93%A6+%26+Java+Full‑Stack+Dev;%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -40,10 +43,12 @@
 
 #### <a href="https://siddiq2604.github.io/parallax-effect-project/" target="_blank">Parallax Effect</a>
 > HTML · CSS
+
 Created a Parallax Effect Project
 
 #### Nutrient Recommendation System for Personalized Diet
 > Python · Streamlit · GitHub
+
 Created a complete website to make personalized diet and workout plans for users.
 
 #### Smart Food Ordering System
