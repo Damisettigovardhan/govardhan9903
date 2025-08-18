@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abubakar Siddiq Mohammed and I'm a Computer Science Engineering Student, from Sri Vasavi Engineering College</h2>
+<h2 align="left">Hi 👋! My name is Abubakar Siddiq Mohammed and I'm a Computer Science Engineer</h2>
 
 ###
 
@@ -11,20 +11,22 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/100069065?s=400&u=6faf520662493c0a2b596e42e1eba820c9738674&v=4"  />
 
-###
+### 🛠️ Tech Stack
 
-<div align="left">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiq2604&label=Profile%20views&color=0e75b6&style=flat" alt="siddiq2604" /> </p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="3" alt="java logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="3" alt="html5 logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="3" alt="css3 logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+#### 🌐 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+#### 🎨 Web Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,spring" />
+</p>
+
+#### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,AWS,azure,github,git,postman,vscode" />
+</p>
 
 ###
 
