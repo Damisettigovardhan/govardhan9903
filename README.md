@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,aws,azure,github,git,postman,vscode" />
 </p>
 
+---
 
 ### 📰 Publications
 
@@ -46,7 +47,7 @@
 > Python · Django · HTML · CSS ·SQlite3 · GitHub
 > Created a complete website to make Food orders using a virtual token system to pick orders from the restaurant by users to avoid delivery charges.
 
-
+---
 
 ### 📈 GitHub Stats
 
