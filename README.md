@@ -1,9 +1,9 @@
-<h1 align="left">Hi 👋! My name is Abubakar Siddiq Mohammed and I'm a Computer Science Engineer</h2>
+<h1 align="left">Hi 👋! My name is Abubakar Siddiq Mohammed, and I'm a Computer Science Engineer</h2>
 
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/100069065?s=400&u=6faf520662493c0a2b596e42e1eba820c9738674&v=4"  />
+<img align="right" height="300" src="https://avatars.githubusercontent.com/u/100069065?s=400&u=6faf520662493c0a2b596e42e1eba820c9738674&v=4"  />
 
 ### 🛠️ Tech Stack
 
