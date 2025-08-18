@@ -12,21 +12,41 @@
   <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
+
 #### 🎨 Web Development  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,spring,springboot" />
 </p>
 
+
 #### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,github,git,postman,vscode,devops" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,github,git,postman,vscode,DevOps" />
 </p>
+
 
 ### 📰 Publications
 
 - *Nutrient Recommendation System for Personalized Diet* — IJISRT https://doi.org/10.38124/ijisrt/25mar1573
 
 ---
+
+
+### 🏗️ Projects
+
+#### Parallax Effect 
+> HTML · CSS
+Created a Parallax Effect Project
+
+#### Nutrient Recommendation System for Personalized Diet
+> Python · Streamlit · GitHub  
+Created a complete website to make personalized diet and workout plan for users.
+
+#### Smart Food Ordering System
+> Python · Django · HTML · CSS ·SQlite3 · GitHub  
+Created a complete website to make Food Order using virtual token system to pick oder from restaurant by users to avoid delivery charges.
+
+
 
 ### 📈 GitHub Stats
 
