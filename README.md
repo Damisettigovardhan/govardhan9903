@@ -24,11 +24,14 @@
   <img src="https://skillicons.dev/icons?i=mysql,aws,azure,github,git,postman,vscode" />
 </p>
 
+
 ---
+
 
 ### 📰 Publications
 
 - *Nutrient Recommendation System for Personalized Diet* — IJISRT https://doi.org/10.38124/ijisrt/25mar1573
+
 
 ---
 
@@ -45,9 +48,12 @@ Created a complete website to make personalized diet and workout plans for users
 
 #### Smart Food Ordering System
 > Python · Django · HTML · CSS ·SQlite3 · GitHub
+
 Created a complete website to make Food orders using a virtual token system to pick orders from the restaurant by users to avoid delivery charges.
 
+
 ---
+
 
 ### 📈 GitHub Stats
 
@@ -55,6 +61,7 @@ Created a complete website to make Food orders using a virtual token system to p
   <img src="https://github-readme-stats.vercel.app/api?username=siddiq2604&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiq2604&theme=tokyonight" width="48%"/>
 </p>
+
 
 ---
 
