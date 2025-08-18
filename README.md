@@ -9,7 +9,7 @@
 
 #### 🌐 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
 #### 🎨 Web Development  
@@ -25,7 +25,6 @@
 ### 📰 Publications
 
 - *Nutrient Recommendation System for Personalized Diet* — IJISRT https://doi.org/10.38124/ijisrt/25mar1573
-
 
 ---
 
