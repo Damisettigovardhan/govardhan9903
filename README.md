@@ -37,15 +37,15 @@
 
 #### <a href="https://siddiq2604.github.io/parallax-effect-project/" target="_blank">Parallax Effect</a>
 > HTML · CSS
-> Created a Parallax Effect Project
+Created a Parallax Effect Project
 
 #### Nutrient Recommendation System for Personalized Diet
 > Python · Streamlit · GitHub
-> Created a complete website to make personalized diet and workout plans for users.
+Created a complete website to make personalized diet and workout plans for users.
 
 #### Smart Food Ordering System
 > Python · Django · HTML · CSS ·SQlite3 · GitHub
-> Created a complete website to make Food orders using a virtual token system to pick orders from the restaurant by users to avoid delivery charges.
+Created a complete website to make Food orders using a virtual token system to pick orders from the restaurant by users to avoid delivery charges.
 
 ---
 
