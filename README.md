@@ -20,13 +20,30 @@
 
 #### 🎨 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,spring,springboot" />
 </p>
 
 #### ⚙️ Tools & Platforms  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,AWS,azure,github,git,postman,vscode" />
 </p>
+
+### 📰 Publications
+
+- *Nutrient Recommendation System for Personalized Diet* — IJISRT https://doi.org/10.38124/ijisrt/25mar1573
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriSatyaSatti&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriSatyaSatti&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
 
 ###
 
