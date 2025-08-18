@@ -85,3 +85,9 @@ Created a complete website to make Food orders using a virtual token system to p
 </div>
 
 ###
+
+---
+
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/<USER>/<REPO>/output/snake.svg)
