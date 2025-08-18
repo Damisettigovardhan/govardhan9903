@@ -15,13 +15,13 @@
 
 #### 🎨 Web Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,spring,springboot" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,spring,boot" />
 </p>
 
 
 #### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,github,git,postman,vscode,DevOps" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,azure,github,git,postman,vscode" />
 </p>
 
 
