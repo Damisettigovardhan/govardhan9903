@@ -34,7 +34,7 @@
 
 ### 🏗️ Projects
 
-#### Parallax Effect 
+#### <a href="https://siddiq2604.github.io/parallax-effect-project/" target="_blank">Parallax Effect</a>
 > HTML · CSS
 Created a Parallax Effect Project
 
